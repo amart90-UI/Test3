@@ -1,0 +1,3 @@
+setwd()
+a <- 2+6
+print(a)
